@@ -1,7 +1,6 @@
 # grid_builder
 
-A new Flutter project.
-
+Learn about grid view builder
 ## Getting Started
 
 This project is a starting point for a Flutter application.
